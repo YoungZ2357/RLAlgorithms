@@ -7,5 +7,4 @@ from algorithms.tabular.q_learning import QLearningTabular
 
 
 if __name__ == '__main__':
-
     pass

@@ -25,10 +25,6 @@ class QLearningTabular:
         self.lr = lr
         self.epsilon = epsilon
 
-
-
-        pass
-
     def choose_action(self, state):
         """ do epsilon-greedy policy
 
