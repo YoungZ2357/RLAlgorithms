@@ -3,3 +3,8 @@
 # @Author  : Young Zhang
 # @File    : main.py
 # @Project : RLAlgorithms
+from algorithms.tabular.q_learning import *
+
+if __name__ == '__main__':
+
+    pass
