@@ -4,7 +4,5 @@
 # @File    : main.py
 # @Project : RLAlgorithms
 from algorithms.tabular.q_learning import QLearningTabular
+import gymnasium
 
-
-if __name__ == '__main__':
-    pass
