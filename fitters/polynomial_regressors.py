@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2024/5/26 15:17
+# @Time    : 2024/7/7 上午9:37
 # @Author  : Qingyang Zhang
-# @File    : __init__.py.py
+# @File    : polynomial_regressors.py
 # @Project : RLAlgorithms

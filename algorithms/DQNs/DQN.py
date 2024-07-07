@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2024/5/26 20:49
-# @Author  : Young Zhang
+# @Author  : Qingyang Zhang
 # @File    : DQN.py
 # @Project : RLAlgorithms
 import torch.nn as nn
@@ -19,7 +19,6 @@ class DQNAgent:
         self.env = env
         self.epsilon = epsilon
         self.discount_factor = discount_factor
-
 
     def choose_action(self, state):
         pass

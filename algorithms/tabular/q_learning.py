@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2024/5/25 9:48
-# @Author  : Young Zhang
+# @Author  : Qingyang Zhang
 # @File    : q_learning.py
 # @Project : RLAlgorithms
 import gymnasium
